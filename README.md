@@ -1,4 +1,4 @@
-#week7   基于Vue Element的管理页面源代码
+# week7   基于Vue Element的管理页面源代码
 
 ## Project setup
 ```
